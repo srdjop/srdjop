@@ -6,6 +6,6 @@
 
 💻 With a solid background in software engineering, I have knowledge and skills in various aspects of software development. My experience is based on Python, Java, C, C++, including some popular frameworks as Django, SpringBoot, OpenMP, CUDA.
 
-➕ In addition, I have a solid foundation in database management, including designing and implementing database systems. I possess practical expertise in managing relational databases, such as Oracle, using SQL for data organization and retrieval. Also, I have worked with non-relational databases like MongoDB, employing flexible schema models to handle unstructured and semi-structured data effectively. 
+🗃️ In addition, I have a solid foundation in database management, including designing and implementing database systems. I possess practical expertise in managing relational databases, such as Oracle, using SQL for data organization and retrieval. Also, I have worked with non-relational databases like MongoDB, employing flexible schema models to handle unstructured and semi-structured data effectively. 
 
 
