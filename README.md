@@ -1,6 +1,6 @@
-👋 Hello, I'm Srdjan, a Data Science student.
+👋 Hello, I'm Srdjan, a Junior Data Scientist.
 
-🎓 I'm currently pursuing a Bachelor's degree in Data Science at the Faculty of Technical Sciences in Novi Sad, Serbia. I'm in my final year, eagerly expanding my knowledge and skills in this field.
+🎓 I have a Bachelor's degree in Data Science at the Faculty of Technical Sciences in Novi Sad, Serbia. 
 
 💡 My areas of expertise include machine learning, data analysis, statistical modeling, and data visualization. I'm proficient in Python and have hands-on experience with libraries like pandas, numpy, matplotlib, scikit-learn, and keras.
 
