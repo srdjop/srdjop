@@ -1,4 +1,4 @@
-👋 Hello, I'm Srdjan, a Junior Machine Learning Engineer.
+👋 Hello, I'm Srdjan, a Graduate Data Scientist.
 
 🎓 I have a Bachelor's degree in Data Science at the Faculty of Technical Sciences in Novi Sad, Serbia. 
 
