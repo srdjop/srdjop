@@ -2,7 +2,7 @@
 
 🎓 I have a Bachelor's degree in Data Science at the Faculty of Technical Sciences in Novi Sad, Serbia. 
 
-💡 My areas of expertise include machine learning, data analysis, statistical modeling, and data visualization. I'm proficient in Python and have hands-on experience with libraries like pandas, numpy, matplotlib, scikit-learn, and keras.
+💡 My areas of expertise include machine learning, data analysis, statistical modeling, and data visualization. I'm proficient in Python and have hands-on experience with libraries like pandas, numpy, matplotlib, scikit-learn, OpenCV, and keras.
 
 💻 With a solid background in software engineering, I have knowledge and skills in various aspects of software development. My experience is based on Python, Java, C, C++, including some popular frameworks as Django, SpringBoot, OpenMP, CUDA.
 
